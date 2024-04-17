@@ -329,9 +329,7 @@
     "name": "Neal.Fun",
     "link": "https://neal.fun",
     "image": "/assets/media/icons/nealfun.webp",
-    "categories": ["all"],
-    "error": "true",
-    "say": "Neal.fun does not work on Interstellar because of Cloudflare protection."
+    "categories": ["all"]
   },
   {
     "name": "YoHoHo.io",
@@ -581,19 +579,19 @@
   },
   {
     "name": "FNAF 2",
-    "link": "https://sussygamedeveloper.github.io/FNAF2/",
+    "link": "https://dwunblockedg.netlify.app/fnaf2/",
     "image": "/assets/media/icons/FNAF2.webp",
     "categories": ["all"]
   },
   {
     "name": "FNAF 3",
-    "link": "https://sussygamedeveloper.github.io/fnaf3/",
+    "link": "https://dwunblockedg.netlify.app/fnaf3/",
     "image": "/assets/media/icons/FNAF3.webp",
     "categories": ["all"]
   },
   {
     "name": "FNAF Web",
-    "link": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
+    "link": "https://dwunblockedg.netlify.app/fnaf/",
     "image": "/assets/media/icons/FNAFWeb.webp",
     "categories": ["all"]
   },
@@ -701,7 +699,7 @@
   },
   {
     "name": "1v1.LOL",
-    "link": "https://1v1.lol",
+    "link": "https://thunderous-youtiao-56a8b8.netlify.app/",
     "image": "/assets/media/icons/1v1-lol.webp",
     "categories": ["all,", "2P"]
   },
@@ -760,8 +758,8 @@
     "categories": ["all"]
   },
   {
-    "name": "Among Us (Scratch)",
-    "link": "https://turbowarp.org/523967150/fullscreen",
+    "name": "Among Us",
+    "link": "https://dwunblockedgame.netlify.app/among-us/",
     "image": "/assets/media/icons/scratch-among-us.webp",
     "categories": ["all"]
   },
@@ -796,9 +794,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Biggie Cheese Fight",
-    "link": "https://scratch.mit.edu/projects/163771748/fullscreen",
-    "image": "/assets/media/icons/biggiecheese.webp",
+    "name": "CSGO CLICKER",
+    "link": "https://dwunblockedgame.netlify.app/csgoclicker/",
+    "image": "/assets/media/icons/case1.webp",
     "categories": ["all"]
   },
   {
@@ -863,7 +861,7 @@
   },
   {
     "name": "Crossy Road",
-    "link": "https://5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/169dc11d-e718-4b36-9e60-d5ed5bc07a31/index.html",
+    "link": "https://dwunblockedg.netlify.app/crossyroad/",
     "image": "/assets/media/icons/cr.webp",
     "categories": ["all"]
   },
@@ -1741,13 +1739,13 @@
   },
   {
     "name": "Minecraft 1.5.2 (Eaglercraft)",
-    "link": "/e/ec-15/index.html",
+    "link": "https://minecraftunblocked.github.io/go/minecraft-1.5.2/",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P", "emu", "local"]
   },
   {
     "name": "Minecraft 1.8 (Eaglercraft)",
-    "link": "/e/ec-18/index.html",
+    "link": "https://minecraftunblocked.github.io/go/minecraft-1.8.8/",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P", "emu", "local"]
   },

@@ -31,9 +31,9 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "Guilded",
-    "link": "https://guilded.gg",
-    "image": "/assets/media/icons/guilded.webp",
+    "name": "The Movie Archive",
+    "link": "https://themoviearchive.site/",
+    "image": "/assets/media/icons/moviea.png",
     "categories": ["all", "social"]
   },
   {
