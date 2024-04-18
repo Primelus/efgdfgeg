@@ -1805,9 +1805,9 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Windows 96",
-    "link": "https://windows96.net",
-    "image": "/assets/media/icons/windows96.png",
+    "name": "SoundBoard",
+    "link": "https://lustrous-platypus-9d0797.netlify.app/",
+    "image": "/assets/media/icons/SoundBoard.png",
     "categories": ["all"]
   },
   {
