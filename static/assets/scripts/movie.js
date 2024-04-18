@@ -79,8 +79,8 @@ function pinContains(i, p) {
 }
 
 function Custom(app) {
-  const title = prompt('Enter title for the app:')
-  const link = prompt('Enter link for the app:')
+  const title = prompt('Enter title for the Movie:')
+  const link = prompt('Enter link for the Movie:')
   if (title && link) {
     const customApp = {
       name: '[Custom] ' + title,
@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   }
 
-  fetch('/assets/json/a.min.json')
+  fetch('/assets/json/m.min.json')
     .then((response) => {
       return response.json()
     })
