@@ -21,8 +21,7 @@
     "name": "Steam",
     "link": "https://steampowered.com/",
     "image": "/assets/media/icons/steam.ico",
-    "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now."
+    "categories": ["all"]
   },
   {
     "name": "BuzzFeed Quizzes",
