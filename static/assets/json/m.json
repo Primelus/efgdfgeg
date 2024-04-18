@@ -12,16 +12,16 @@
     "categories": ["all"]
   },
   {
-    "name": "Amazon",
-    "link": "https://amazon.com/",
-    "image": "/assets/media/icons/amazon.webp",
+    "name": "Bee Movie",
+    "link": "https://dwunblockedg.netlify.app/beemovie",
+    "image": "/assets/media/icons/bee movie.jpg",
     "categories": ["all", "media"]
   },
   {
-    "name": "Steam",
-    "link": "https://steampowered.com/",
-    "image": "/assets/media/icons/steam.ico",
-    "categories": ["all"]
+    "name": "Beavis And Butthead",
+    "link": "https://famous-banoffee-927b28.netlify.app/beavis",
+    "image": "/assets/media/icons/beavis.png",
+    "categories": ["comedy","Comedy"]
   },
   {
     "name": "BuzzFeed Quizzes",
@@ -36,51 +36,51 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
-    "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"]
+    "name": "SpongeBob",
+    "link": "https://tiny-licorice-852697.netlify.app/spongebob",
+    "image": "/assets/media/icons/spio.jpg",
+    "categories": ["all", "Animation", "Cartoon"]
   },
   {
-    "name": "Temu",
-    "link": "https://temu.com",
-    "image": "/assets/media/icons/temu.webp",
+    "name": "LittleMan",
+    "link": "https://unrivaled-pasca-4ac79e.netlify.app/littleman",
+    "image": "/assets/media/icons/Littleman.PNG",
     "categories": ["all"]
   },
   {
-    "name": "Character AI",
-    "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
-    "image": "/assets/media/icons/characterai.webp",
+    "name": "BoonDocks",
+    "link": "https://vermillion-marzipan-71a101.netlify.app/theboondocks",
+    "image": "/assets/media/icons/Boonsdocks.png",
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Aptoide",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "image": "/assets/media/icons/aptoide.webp",
+    "name": "Batman Mask Of The Phantasm",
+    "link": "https://tourmaline-selkie-6f6f68.netlify.app/batman%20mask%20of%20the%20phantasm.html",
+    "image": "/assets/media/icons/bat.PNG",
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Movie Web",
-    "link": "https://movie-web.app",
-    "image": "/assets/media/icons/movie-web.webp",
+    "name": "RushHour2",
+    "link": "https://dwunblockedgame.netlify.app/rushhour2",
+    "image": "/assets/media/icons/rushour2.png",
     "categories": ["all", "media", "stream"]
   },
   {
-    "name": "Scratch",
-    "link": "https://scratch.mit.edu",
-    "image": "/assets/media/icons/scratch.webp",
+    "name": "DeadPool",
+    "link": "https://dwunblockedgame.netlify.app/deadpool",
+    "image": "/assets/media/icons/deadpool.png",
     "categories": ["all", "social", "game", "media"]
   },
   {
-    "name": "Chess.com",
-    "link": "https://chess.com",
-    "image": "/assets/media/icons/chess.webp",
+    "name": "Despicable Me 3",
+    "link": "https://snazzy-sunburst-241792.netlify.app/despicable",
+    "image": "/assets/media/icons/me.png",
     "categories": ["all", "game"]
   },
   {
-    "name": "Cool Math Games",
-    "link": "https://coolmathgames.com",
-    "image": "/assets/media/icons/coolmath.webp",
+    "name": "King Of The Hill",
+    "link": "https://comforting-tiramisu-74fbd1.netlify.app/hill",
+    "image": "/assets/media/icons/king.png",
     "categories": ["all", "game"]
   },
   {
@@ -324,15 +324,15 @@
     "error": "true"
   },
   {
-    "name": "W3Schools",
-    "link": "https://www.w3schools.com",
-    "image": "/assets/media/icons/W3Schools.png",
+    "name": "Toy Story 1",
+    "link": "https://iridescent-twilight-56f501.netlify.app/toystory",
+    "image": "/assets/media/icons/toy.png",
     "categories": ["all"]
   },
   {
-    "name": "Newgrounds",
-    "link": "https://www.newgrounds.com",
-    "image": "/assets/media/icons/ng.png",
+    "name": "Fast And Furious",
+    "link": "https://dwunblockedgame.netlify.app/fast",
+    "image": "/assets/media/icons/fast.png",
     "categories": ["all", "social", "game", "media"]
   },
   {
